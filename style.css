@@ -1,0 +1,28 @@
+body {
+  background-color: #EEEEEE;
+  font-family: 'Almarai', sans-serif;
+}
+
+img {
+  width: 10%;
+  height: 10%;
+  padding-left: 45%
+}
+
+h1 {
+text-align: center;
+}
+
+.content {
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+}
+
+iframe {
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+  height: 1100px;
+  zoom: 0.5; -moz-transform: scale(0.5); -moz-transform-origin: 0 0;
+}
